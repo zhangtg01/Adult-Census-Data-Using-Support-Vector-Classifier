@@ -6,8 +6,8 @@ In this project we work on  [the adult census dataset](https://www.kaggle.com/uc
 
 Objectives:
 
-Construct Exploratory Data Analysis on the dataset and visualize the correlations.
-Construct a machine learning model that accurately predicts whether an individual makes more than $50,000.  
+- Construct Exploratory Data Analysis on the dataset and visualize the correlations.
+- Construct a machine learning model that accurately predicts whether an individual makes more than $50,000.  
 
 
 ### Data
