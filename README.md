@@ -5,6 +5,8 @@
 In this project we work on  [the adult census dataset](https://www.kaggle.com/uciml/adult-census-income#) which I have downloaded as `adult.csv`. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Census+Income). The goal of this project is to profile people in the above dataset based on available demographic attributes.
 
 Objectives:
+
+Construct Exploratory Data Analysis on the dataset and visualize the correlations.
 Construct a machine learning model that accurately predicts whether an individual makes more than $50,000.  
 
 
